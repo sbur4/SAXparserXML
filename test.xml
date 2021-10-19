@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <stringTest>Hello EPAM</stringTest>
+    <arrayTest>
+        <car>
+            <name id="lion">Peuqeot</name>
+            <model>2008</model>
+        </car>
+        <car>
+            <name>Mercedes-Benz</name>
+            <model>A220</model>
+        </car>
+    </arrayTest>
+</root>
+
+
+
