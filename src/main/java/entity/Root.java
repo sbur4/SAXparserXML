@@ -22,7 +22,7 @@ public class Root {
         this.stringTest = stringTest;
     }
 
-    public List<Car> getArrayTest() {
+    public List<Car> getArrayTest(List<Car> arrayTest) {
         return arrayTest;
     }
 
